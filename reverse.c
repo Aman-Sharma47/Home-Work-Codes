@@ -1,3 +1,4 @@
+//Write a c program to print the enter numbers in reverse order.
 #include <stdio.h>
 
 int main() {
